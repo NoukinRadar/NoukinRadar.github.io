@@ -43,7 +43,8 @@ header {
     text-align:center;
 }
 .linkBlockColor{
-       color:#000000;
+    color:#000000;
+    font-size: 16px;
 }
 .links{
     position:absolute;
